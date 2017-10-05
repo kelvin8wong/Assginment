@@ -9,6 +9,8 @@ function counterLetters (input){
     }
   }
   return counter;
+
+
 }
 
 console.log (counterLetters("lighthouse in the house"));
