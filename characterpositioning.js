@@ -16,8 +16,6 @@ function counterLetters (input){
 
     }
 
-
-
     // }
   } //for loop
   return counter;
